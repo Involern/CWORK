@@ -1,2 +1,2 @@
 # CWORK
- For learning C++
+For learning C++ code.
